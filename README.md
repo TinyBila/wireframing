@@ -47,3 +47,33 @@ More detailed and refined versions, often closer to the final design, including 
 
 ## The type of wireframe project available
 Most of the project are high-fifelity wireframe they look closer to the final design but project like the "alx" looks more basic and simple.
+
+# Wireframe Tools
+Wireframing tools help designers and developers create visual blueprints of websites, apps, or digital products before moving into full design and development. Some of the most commonly used tools include:
+
+Balsamiq – Known for its simple, sketch-like interface that makes it easy to quickly draft low-fidelity wireframes.
+
+Adobe XD – Offers a balance of wireframing, prototyping, and design features, with strong integration into Adobe’s ecosystem.
+
+Sketch – Popular among Mac users, with a wide range of plugins and integrations for creating both wireframes and high-fidelity designs.
+
+Axure RP – A powerful tool that allows for advanced interactivity and documentation, making it great for complex projects.
+
+Why Figma is Recommended
+
+Among all these tools, Figma stands out as one of the most recommended for wireframing.
+
+Key Features of Figma for Wireframing:
+
+Cloud-based collaboration – Multiple users can work on the same file in real time, similar to Google Docs.
+
+Cross-platform – Works in the browser as well as desktop apps (Windows, macOS, Linux) without compatibility issues.
+
+Component system – Reusable components make it easy to build consistent wireframes and scale designs.
+
+Built-in prototyping – Allows you to connect frames and create clickable prototypes without needing an external tool.
+
+Plugins and templates – A wide library of community-created resources speeds up wireframing and design processes.
+
+Why it’s useful for wireframing:
+Figma is especially powerful because it lets teams quickly move from low-fidelity wireframes (basic layouts to map user flow) to high-fidelity designs and even interactive prototypes—all in one platform. Its real-time collaboration is invaluable for remote teams, ensuring that designers, developers, and stakeholders are always aligned.
