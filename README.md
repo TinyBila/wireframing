@@ -35,3 +35,15 @@ Shows how users will move through the site or application.
 Indicates where text, images, and other content will be positioned.
 ## Functionality:
 Outlines key functionalities and interactions.
+
+# Types of Wireframes
+
+## Low-Fidelity Wireframes:
+Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+
+## High-Fidelity Wireframes:
+More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+
+## The type of wireframe project available
+Most of the project are high-fifelity wireframe they look closer to the final design but project like the "alx" looks more basic and simple.
