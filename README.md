@@ -49,31 +49,29 @@ More detailed and refined versions, often closer to the final design, including 
 Most of the project are high-fifelity wireframe they look closer to the final design but project like the "alx" looks more basic and simple.
 
 # Wireframe Tools
+
 Wireframing tools help designers and developers create visual blueprints of websites, apps, or digital products before moving into full design and development. Some of the most commonly used tools include:
+1. Balsamiq – Known for its simple, sketch-like interface that makes it easy to quickly draft low-fidelity wireframes.
 
-Balsamiq – Known for its simple, sketch-like interface that makes it easy to quickly draft low-fidelity wireframes.
+2. Adobe XD – Offers a balance of wireframing, prototyping, and design features, with strong integration into Adobe’s ecosystem.
 
-Adobe XD – Offers a balance of wireframing, prototyping, and design features, with strong integration into Adobe’s ecosystem.
+3. Sketch – Popular among Mac users, with a wide range of plugins and integrations for creating both wireframes and high-fidelity designs.
 
-Sketch – Popular among Mac users, with a wide range of plugins and integrations for creating both wireframes and high-fidelity designs.
+4. Axure RP – A powerful tool that allows for advanced interactivity and documentation, making it great for complex projects.
 
-Axure RP – A powerful tool that allows for advanced interactivity and documentation, making it great for complex projects.
+## Why Figma is Recommended
 
-Why Figma is Recommended
+Among all these tools, Figma stands out as one of the most recommended for wireframing.Figma is especially powerful because it lets teams quickly move from low-fidelity wireframes (basic layouts to map user flow) to high-fidelity designs and even interactive prototypes—all in one platform. Its real-time collaboration is invaluable for remote teams, ensuring that designers, developers, and stakeholders are always aligned.
 
-Among all these tools, Figma stands out as one of the most recommended for wireframing.
+## Key Features of Figma for Wireframing:
+1. Cloud-based collaboration – Multiple users can work on the same file in real time, similar to Google Docs.
 
-Key Features of Figma for Wireframing:
+2. Cross-platform – Works in the browser as well as desktop apps (Windows, macOS, Linux) without compatibility issues.
 
-Cloud-based collaboration – Multiple users can work on the same file in real time, similar to Google Docs.
+3. Component system – Reusable components make it easy to build consistent wireframes and scale designs.
 
-Cross-platform – Works in the browser as well as desktop apps (Windows, macOS, Linux) without compatibility issues.
+4. Built-in prototyping – Allows you to connect frames and create clickable prototypes without needing an external tool.
 
-Component system – Reusable components make it easy to build consistent wireframes and scale designs.
+5. Plugins and templates – A wide library of community-created resources speeds up wireframing and design processes.
 
-Built-in prototyping – Allows you to connect frames and create clickable prototypes without needing an external tool.
 
-Plugins and templates – A wide library of community-created resources speeds up wireframing and design processes.
-
-Why it’s useful for wireframing:
-Figma is especially powerful because it lets teams quickly move from low-fidelity wireframes (basic layouts to map user flow) to high-fidelity designs and even interactive prototypes—all in one platform. Its real-time collaboration is invaluable for remote teams, ensuring that designers, developers, and stakeholders are always aligned.
